@@ -1,0 +1,15 @@
+H:\CODE\c#\数字化空压机实战\DigitaPlatForm.IDataAccess\bin\Debug\net8.0-windows\DigitaPlatForm.IDataAccess.deps.json
+H:\CODE\c#\数字化空压机实战\DigitaPlatForm.IDataAccess\bin\Debug\net8.0-windows\DigitaPlatForm.IDataAccess.dll
+H:\CODE\c#\数字化空压机实战\DigitaPlatForm.IDataAccess\bin\Debug\net8.0-windows\DigitaPlatForm.IDataAccess.pdb
+H:\CODE\c#\数字化空压机实战\DigitaPlatForm.IDataAccess\bin\Debug\net8.0-windows\DigitaPlatform.Entities.dll
+H:\CODE\c#\数字化空压机实战\DigitaPlatForm.IDataAccess\bin\Debug\net8.0-windows\DigitaPlatform.Entities.pdb
+H:\CODE\c#\数字化空压机实战\DigitaPlatForm.IDataAccess\obj\Debug\net8.0-windows\DigitaPlatForm.IDataAccess.csproj.AssemblyReference.cache
+H:\CODE\c#\数字化空压机实战\DigitaPlatForm.IDataAccess\obj\Debug\net8.0-windows\DigitaPlatForm.IDataAccess.GeneratedMSBuildEditorConfig.editorconfig
+H:\CODE\c#\数字化空压机实战\DigitaPlatForm.IDataAccess\obj\Debug\net8.0-windows\DigitaPlatForm.IDataAccess.AssemblyInfoInputs.cache
+H:\CODE\c#\数字化空压机实战\DigitaPlatForm.IDataAccess\obj\Debug\net8.0-windows\DigitaPlatForm.IDataAccess.AssemblyInfo.cs
+H:\CODE\c#\数字化空压机实战\DigitaPlatForm.IDataAccess\obj\Debug\net8.0-windows\DigitaPlatForm.IDataAccess.csproj.CoreCompileInputs.cache
+H:\CODE\c#\数字化空压机实战\DigitaPlatForm.IDataAccess\obj\Debug\net8.0-windows\DigitaPl.C2F24DE6.Up2Date
+H:\CODE\c#\数字化空压机实战\DigitaPlatForm.IDataAccess\obj\Debug\net8.0-windows\DigitaPlatForm.IDataAccess.dll
+H:\CODE\c#\数字化空压机实战\DigitaPlatForm.IDataAccess\obj\Debug\net8.0-windows\refint\DigitaPlatForm.IDataAccess.dll
+H:\CODE\c#\数字化空压机实战\DigitaPlatForm.IDataAccess\obj\Debug\net8.0-windows\DigitaPlatForm.IDataAccess.pdb
+H:\CODE\c#\数字化空压机实战\DigitaPlatForm.IDataAccess\obj\Debug\net8.0-windows\ref\DigitaPlatForm.IDataAccess.dll

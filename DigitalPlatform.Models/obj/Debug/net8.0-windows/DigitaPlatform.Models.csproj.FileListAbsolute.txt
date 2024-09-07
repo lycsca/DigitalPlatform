@@ -1,0 +1,12 @@
+H:\CODE\c#\数字化空压机实战\DigitalPlatform.Models\bin\Debug\net8.0-windows\DigitaPlatform.Models.deps.json
+H:\CODE\c#\数字化空压机实战\DigitalPlatform.Models\bin\Debug\net8.0-windows\DigitaPlatform.Models.dll
+H:\CODE\c#\数字化空压机实战\DigitalPlatform.Models\bin\Debug\net8.0-windows\DigitaPlatform.Models.pdb
+H:\CODE\c#\数字化空压机实战\DigitalPlatform.Models\obj\Debug\net8.0-windows\DigitaPlatform.Models.csproj.AssemblyReference.cache
+H:\CODE\c#\数字化空压机实战\DigitalPlatform.Models\obj\Debug\net8.0-windows\DigitaPlatform.Models.GeneratedMSBuildEditorConfig.editorconfig
+H:\CODE\c#\数字化空压机实战\DigitalPlatform.Models\obj\Debug\net8.0-windows\DigitaPlatform.Models.AssemblyInfoInputs.cache
+H:\CODE\c#\数字化空压机实战\DigitalPlatform.Models\obj\Debug\net8.0-windows\DigitaPlatform.Models.AssemblyInfo.cs
+H:\CODE\c#\数字化空压机实战\DigitalPlatform.Models\obj\Debug\net8.0-windows\DigitaPlatform.Models.csproj.CoreCompileInputs.cache
+H:\CODE\c#\数字化空压机实战\DigitalPlatform.Models\obj\Debug\net8.0-windows\DigitaPlatform.Models.dll
+H:\CODE\c#\数字化空压机实战\DigitalPlatform.Models\obj\Debug\net8.0-windows\refint\DigitaPlatform.Models.dll
+H:\CODE\c#\数字化空压机实战\DigitalPlatform.Models\obj\Debug\net8.0-windows\DigitaPlatform.Models.pdb
+H:\CODE\c#\数字化空压机实战\DigitalPlatform.Models\obj\Debug\net8.0-windows\ref\DigitaPlatform.Models.dll

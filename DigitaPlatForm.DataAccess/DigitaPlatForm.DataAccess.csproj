@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.Data.SQLite" Version="1.0.118" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DigitaPlatform.Entities\DigitaPlatform.Entities.csproj" />
+    <ProjectReference Include="..\DigitaPlatForm.IDataAccess\DigitaPlatForm.IDataAccess.csproj" />
+  </ItemGroup>
+
+</Project>

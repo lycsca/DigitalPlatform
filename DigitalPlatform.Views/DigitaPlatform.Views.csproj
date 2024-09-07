@@ -1,0 +1,30 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="LiveCharts.Wpf" Version="0.9.7" />
+    <PackageReference Include="Microsoft.Xaml.Behaviors.Wpf" Version="1.1.122" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DigitalPlatform.ViewModels\DigitaPlatform.ViewModels.csproj" />
+    <ProjectReference Include="..\DigitaPlatForm.Assets\DigitaPlatForm.Assets.csproj" />
+    <ProjectReference Include="..\DigitaPlatform.Common\DigitaPlatform.Common.csproj" />
+    <ProjectReference Include="..\DigitaPlatform.Components\DigitaPlatform.Components.csproj" />
+
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="Pages\AlarmPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+
+</Project>

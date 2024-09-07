@@ -1,0 +1,12 @@
+H:\CODE\c#\数字化空压机实战\DigitaPlatForm.Assets\bin\Debug\net8.0-windows\DigitaPlatForm.Assets.deps.json
+H:\CODE\c#\数字化空压机实战\DigitaPlatForm.Assets\bin\Debug\net8.0-windows\DigitaPlatForm.Assets.dll
+H:\CODE\c#\数字化空压机实战\DigitaPlatForm.Assets\bin\Debug\net8.0-windows\DigitaPlatForm.Assets.pdb
+H:\CODE\c#\数字化空压机实战\DigitaPlatForm.Assets\obj\Debug\net8.0-windows\DigitaPlatForm.Assets.g.resources
+H:\CODE\c#\数字化空压机实战\DigitaPlatForm.Assets\obj\Debug\net8.0-windows\DigitaPlatForm.Assets.GeneratedMSBuildEditorConfig.editorconfig
+H:\CODE\c#\数字化空压机实战\DigitaPlatForm.Assets\obj\Debug\net8.0-windows\DigitaPlatForm.Assets.AssemblyInfoInputs.cache
+H:\CODE\c#\数字化空压机实战\DigitaPlatForm.Assets\obj\Debug\net8.0-windows\DigitaPlatForm.Assets.AssemblyInfo.cs
+H:\CODE\c#\数字化空压机实战\DigitaPlatForm.Assets\obj\Debug\net8.0-windows\DigitaPlatForm.Assets.csproj.CoreCompileInputs.cache
+H:\CODE\c#\数字化空压机实战\DigitaPlatForm.Assets\obj\Debug\net8.0-windows\DigitaPlatForm.Assets.dll
+H:\CODE\c#\数字化空压机实战\DigitaPlatForm.Assets\obj\Debug\net8.0-windows\refint\DigitaPlatForm.Assets.dll
+H:\CODE\c#\数字化空压机实战\DigitaPlatForm.Assets\obj\Debug\net8.0-windows\DigitaPlatForm.Assets.pdb
+H:\CODE\c#\数字化空压机实战\DigitaPlatForm.Assets\obj\Debug\net8.0-windows\ref\DigitaPlatForm.Assets.dll

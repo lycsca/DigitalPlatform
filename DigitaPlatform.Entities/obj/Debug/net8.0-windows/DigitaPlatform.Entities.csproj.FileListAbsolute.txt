@@ -1,0 +1,11 @@
+H:\CODE\c#\数字化空压机实战\DigitaPlatform.Entities\bin\Debug\net8.0-windows\DigitaPlatform.Entities.deps.json
+H:\CODE\c#\数字化空压机实战\DigitaPlatform.Entities\bin\Debug\net8.0-windows\DigitaPlatform.Entities.dll
+H:\CODE\c#\数字化空压机实战\DigitaPlatform.Entities\bin\Debug\net8.0-windows\DigitaPlatform.Entities.pdb
+H:\CODE\c#\数字化空压机实战\DigitaPlatform.Entities\obj\Debug\net8.0-windows\DigitaPlatform.Entities.GeneratedMSBuildEditorConfig.editorconfig
+H:\CODE\c#\数字化空压机实战\DigitaPlatform.Entities\obj\Debug\net8.0-windows\DigitaPlatform.Entities.AssemblyInfoInputs.cache
+H:\CODE\c#\数字化空压机实战\DigitaPlatform.Entities\obj\Debug\net8.0-windows\DigitaPlatform.Entities.AssemblyInfo.cs
+H:\CODE\c#\数字化空压机实战\DigitaPlatform.Entities\obj\Debug\net8.0-windows\DigitaPlatform.Entities.csproj.CoreCompileInputs.cache
+H:\CODE\c#\数字化空压机实战\DigitaPlatform.Entities\obj\Debug\net8.0-windows\DigitaPlatform.Entities.dll
+H:\CODE\c#\数字化空压机实战\DigitaPlatform.Entities\obj\Debug\net8.0-windows\refint\DigitaPlatform.Entities.dll
+H:\CODE\c#\数字化空压机实战\DigitaPlatform.Entities\obj\Debug\net8.0-windows\DigitaPlatform.Entities.pdb
+H:\CODE\c#\数字化空压机实战\DigitaPlatform.Entities\obj\Debug\net8.0-windows\ref\DigitaPlatform.Entities.dll

@@ -1,0 +1,164 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\CODE\\c#\\\u6570\u5B57\u5316\u7A7A\u538B\u673A\u5B9E\u6218\\DigitalPlatform\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{90CB6B87-CBC7-4E57-9FEB-D69A0314E288}|..\\DigitalPlatform.ViewModels\\DigitaPlatform.ViewModels.csproj|h:\\code\\c#\\\u6570\u5B57\u5316\u7A7A\u538B\u673A\u5B9E\u6218\\digitalplatform.viewmodels\\configviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90CB6B87-CBC7-4E57-9FEB-D69A0314E288}|..\\DigitalPlatform.ViewModels\\DigitaPlatform.ViewModels.csproj|h:\\code\\c#\\\u6570\u5B57\u5316\u7A7A\u538B\u673A\u5B9E\u6218\\digitalplatform.viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95052EAF-AF6D-4EA2-AF2F-CB222CB53D64}|..\\DigitalPlatform.Views\\DigitaPlatform.Views.csproj|h:\\code\\c#\\\u6570\u5B57\u5316\u7A7A\u538B\u673A\u5B9E\u6218\\digitalplatform.views\\pages\\monitorpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95052EAF-AF6D-4EA2-AF2F-CB222CB53D64}|..\\DigitalPlatform.Views\\DigitaPlatform.Views.csproj|h:\\code\\c#\\\u6570\u5B57\u5316\u7A7A\u538B\u673A\u5B9E\u6218\\digitalplatform.views\\componentconfigview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95052EAF-AF6D-4EA2-AF2F-CB222CB53D64}|..\\DigitalPlatform.Views\\DigitaPlatform.Views.csproj|h:\\code\\c#\\\u6570\u5B57\u5316\u7A7A\u538B\u673A\u5B9E\u6218\\digitalplatform.views\\loginview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{794D36EA-65EE-4D5A-93EA-7BA29552A8C4}|..\\DigitaPlatform.Components\\DigitaPlatform.Components.csproj|h:\\code\\c#\\\u6570\u5B57\u5316\u7A7A\u538B\u673A\u5B9E\u6218\\digitaplatform.components\\horizontalpipeline.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{794D36EA-65EE-4D5A-93EA-7BA29552A8C4}|..\\DigitaPlatform.Components\\DigitaPlatform.Components.csproj|h:\\code\\c#\\\u6570\u5B57\u5316\u7A7A\u538B\u673A\u5B9E\u6218\\digitaplatform.components\\gastank.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{794D36EA-65EE-4D5A-93EA-7BA29552A8C4}|..\\DigitaPlatform.Components\\DigitaPlatform.Components.csproj|h:\\code\\c#\\\u6570\u5B57\u5316\u7A7A\u538B\u673A\u5B9E\u6218\\digitaplatform.components\\gastank.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95052EAF-AF6D-4EA2-AF2F-CB222CB53D64}|..\\DigitalPlatform.Views\\DigitaPlatform.Views.csproj|h:\\code\\c#\\\u6570\u5B57\u5316\u7A7A\u538B\u673A\u5B9E\u6218\\digitalplatform.views\\componentconfigview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 172,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginView.xaml",
+              "DocumentMoniker": "H:\\CODE\\c#\\\u6570\u5B57\u5316\u7A7A\u538B\u673A\u5B9E\u6218\\DigitalPlatform.Views\\LoginView.xaml",
+              "RelativeDocumentMoniker": "..\\DigitalPlatform.Views\\LoginView.xaml",
+              "ToolTip": "H:\\CODE\\c#\\\u6570\u5B57\u5316\u7A7A\u538B\u673A\u5B9E\u6218\\DigitalPlatform.Views\\LoginView.xaml",
+              "RelativeToolTip": "..\\DigitalPlatform.Views\\LoginView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-07T07:42:06.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HorizontalPipeline.xaml.cs",
+              "DocumentMoniker": "H:\\CODE\\c#\\\u6570\u5B57\u5316\u7A7A\u538B\u673A\u5B9E\u6218\\DigitaPlatform.Components\\HorizontalPipeline.xaml.cs",
+              "RelativeDocumentMoniker": "..\\DigitaPlatform.Components\\HorizontalPipeline.xaml.cs",
+              "ToolTip": "H:\\CODE\\c#\\\u6570\u5B57\u5316\u7A7A\u538B\u673A\u5B9E\u6218\\DigitaPlatform.Components\\HorizontalPipeline.xaml.cs",
+              "RelativeToolTip": "..\\DigitaPlatform.Components\\HorizontalPipeline.xaml.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T07:04:14.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConfigViewModel.cs",
+              "DocumentMoniker": "H:\\CODE\\c#\\\u6570\u5B57\u5316\u7A7A\u538B\u673A\u5B9E\u6218\\DigitalPlatform.ViewModels\\ConfigViewModel.cs",
+              "RelativeDocumentMoniker": "..\\DigitalPlatform.ViewModels\\ConfigViewModel.cs",
+              "ToolTip": "H:\\CODE\\c#\\\u6570\u5B57\u5316\u7A7A\u538B\u673A\u5B9E\u6218\\DigitalPlatform.ViewModels\\ConfigViewModel.cs",
+              "RelativeToolTip": "..\\DigitalPlatform.ViewModels\\ConfigViewModel.cs",
+              "ViewState": "AQIAAO4AAAAAAAAAAAAqwPsAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T03:48:02.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "H:\\CODE\\c#\\\u6570\u5B57\u5316\u7A7A\u538B\u673A\u5B9E\u6218\\DigitalPlatform.ViewModels\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "..\\DigitalPlatform.ViewModels\\MainViewModel.cs",
+              "ToolTip": "H:\\CODE\\c#\\\u6570\u5B57\u5316\u7A7A\u538B\u673A\u5B9E\u6218\\DigitalPlatform.ViewModels\\MainViewModel.cs",
+              "RelativeToolTip": "..\\DigitalPlatform.ViewModels\\MainViewModel.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAMQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T03:25:39.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MonitorPage.xaml",
+              "DocumentMoniker": "H:\\CODE\\c#\\\u6570\u5B57\u5316\u7A7A\u538B\u673A\u5B9E\u6218\\DigitalPlatform.Views\\Pages\\MonitorPage.xaml",
+              "RelativeDocumentMoniker": "..\\DigitalPlatform.Views\\Pages\\MonitorPage.xaml",
+              "ToolTip": "H:\\CODE\\c#\\\u6570\u5B57\u5316\u7A7A\u538B\u673A\u5B9E\u6218\\DigitalPlatform.Views\\Pages\\MonitorPage.xaml",
+              "RelativeToolTip": "..\\DigitalPlatform.Views\\Pages\\MonitorPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-07T03:14:28.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ComponentConfigView.xaml",
+              "DocumentMoniker": "H:\\CODE\\c#\\\u6570\u5B57\u5316\u7A7A\u538B\u673A\u5B9E\u6218\\DigitalPlatform.Views\\ComponentConfigView.xaml",
+              "RelativeDocumentMoniker": "..\\DigitalPlatform.Views\\ComponentConfigView.xaml",
+              "ToolTip": "H:\\CODE\\c#\\\u6570\u5B57\u5316\u7A7A\u538B\u673A\u5B9E\u6218\\DigitalPlatform.Views\\ComponentConfigView.xaml",
+              "RelativeToolTip": "..\\DigitalPlatform.Views\\ComponentConfigView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-07T03:18:55.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GasTank.xaml",
+              "DocumentMoniker": "H:\\CODE\\c#\\\u6570\u5B57\u5316\u7A7A\u538B\u673A\u5B9E\u6218\\DigitaPlatform.Components\\GasTank.xaml",
+              "RelativeDocumentMoniker": "..\\DigitaPlatform.Components\\GasTank.xaml",
+              "ToolTip": "H:\\CODE\\c#\\\u6570\u5B57\u5316\u7A7A\u538B\u673A\u5B9E\u6218\\DigitaPlatform.Components\\GasTank.xaml",
+              "RelativeToolTip": "..\\DigitaPlatform.Components\\GasTank.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-07T07:04:23.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GasTank.xaml.cs",
+              "DocumentMoniker": "H:\\CODE\\c#\\\u6570\u5B57\u5316\u7A7A\u538B\u673A\u5B9E\u6218\\DigitaPlatform.Components\\GasTank.xaml.cs",
+              "RelativeDocumentMoniker": "..\\DigitaPlatform.Components\\GasTank.xaml.cs",
+              "ToolTip": "H:\\CODE\\c#\\\u6570\u5B57\u5316\u7A7A\u538B\u673A\u5B9E\u6218\\DigitaPlatform.Components\\GasTank.xaml.cs",
+              "RelativeToolTip": "..\\DigitaPlatform.Components\\GasTank.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T07:04:28.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ComponentConfigView.xaml.cs",
+              "DocumentMoniker": "H:\\CODE\\c#\\\u6570\u5B57\u5316\u7A7A\u538B\u673A\u5B9E\u6218\\DigitalPlatform.Views\\ComponentConfigView.xaml.cs",
+              "RelativeDocumentMoniker": "..\\DigitalPlatform.Views\\ComponentConfigView.xaml.cs",
+              "ToolTip": "H:\\CODE\\c#\\\u6570\u5B57\u5316\u7A7A\u538B\u673A\u5B9E\u6218\\DigitalPlatform.Views\\ComponentConfigView.xaml.cs",
+              "RelativeToolTip": "..\\DigitalPlatform.Views\\ComponentConfigView.xaml.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAADwvx0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T03:21:55.994Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+H:\CODE\c#\数字化空压机实战\DigitaPlatform\bin\Debug\net8.0-windows\DigitaPlatform.Assets.deps.json
+H:\CODE\c#\数字化空压机实战\DigitaPlatform\bin\Debug\net8.0-windows\DigitaPlatform.Assets.dll
+H:\CODE\c#\数字化空压机实战\DigitaPlatform\bin\Debug\net8.0-windows\DigitaPlatform.Assets.pdb
+H:\CODE\c#\数字化空压机实战\DigitaPlatform\obj\Debug\net8.0-windows\Styles\ButtonStyles.baml
+H:\CODE\c#\数字化空压机实战\DigitaPlatform\obj\Debug\net8.0-windows\DigitaPlatform.Assets_MarkupCompile.cache
+H:\CODE\c#\数字化空压机实战\DigitaPlatform\obj\Debug\net8.0-windows\DigitaPlatform.Assets.g.resources
+H:\CODE\c#\数字化空压机实战\DigitaPlatform\obj\Debug\net8.0-windows\DigitaPlatform.Assets.GeneratedMSBuildEditorConfig.editorconfig
+H:\CODE\c#\数字化空压机实战\DigitaPlatform\obj\Debug\net8.0-windows\DigitaPlatform.Assets.AssemblyInfoInputs.cache
+H:\CODE\c#\数字化空压机实战\DigitaPlatform\obj\Debug\net8.0-windows\DigitaPlatform.Assets.AssemblyInfo.cs
+H:\CODE\c#\数字化空压机实战\DigitaPlatform\obj\Debug\net8.0-windows\DigitaPlatform.Assets.csproj.CoreCompileInputs.cache
+H:\CODE\c#\数字化空压机实战\DigitaPlatform\obj\Debug\net8.0-windows\DigitaPlatform.Assets.dll
+H:\CODE\c#\数字化空压机实战\DigitaPlatform\obj\Debug\net8.0-windows\refint\DigitaPlatform.Assets.dll
+H:\CODE\c#\数字化空压机实战\DigitaPlatform\obj\Debug\net8.0-windows\DigitaPlatform.Assets.pdb
+H:\CODE\c#\数字化空压机实战\DigitaPlatform\obj\Debug\net8.0-windows\ref\DigitaPlatform.Assets.dll
+H:\CODE\c#\数字化空压机实战\DigitaPlatform\obj\Debug\net8.0-windows\BaseFont.baml

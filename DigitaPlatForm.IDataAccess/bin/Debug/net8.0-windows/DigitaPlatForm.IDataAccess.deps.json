@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "DigitaPlatForm.IDataAccess/1.0.0": {
+        "dependencies": {
+          "DigitaPlatform.Entities": "1.0.0"
+        },
+        "runtime": {
+          "DigitaPlatForm.IDataAccess.dll": {}
+        }
+      },
+      "DigitaPlatform.Entities/1.0.0": {
+        "runtime": {
+          "DigitaPlatform.Entities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DigitaPlatForm.IDataAccess/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DigitaPlatform.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
